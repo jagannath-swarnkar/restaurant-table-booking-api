@@ -3,6 +3,6 @@ import { BasicAuth } from '../middlewares/BasicAuth';
 const router = express.Router();
 import { registration } from '../controllers/users';
 
-router.post("/", BasicAuth, registration);
+router.post("/", registration);
 
 export default router;
