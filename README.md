@@ -1,4 +1,4 @@
-# Postara Node api
+# SpicyDeli Restaurant table booking api
 
 ## Technology used
 
